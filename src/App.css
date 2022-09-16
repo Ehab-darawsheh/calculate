@@ -1,0 +1,16 @@
+body{
+    background-image: url('https://images.pexels.com/photos/937980/pexels-photo-937980.jpeg?cs=srgb&dl=pexels-tetyana-kovyrina-937980.jpg&fm=jpg');
+}
+.App{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.calc-wrapper {
+    background-color:rgb(207, 207, 207);
+    width: 400px;
+    border-radius: 16px;
+}
+.row{
+    display: flex;
+}
